@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for https://github.com/Kansal-ji -->
 
 <h1 align="center">Hi 👋, I'm Yash Kansal</h1>
-<h3 align="center"> Full Stack Developer | UI/UX Enthusiast | Tech Explorer</h3>
+<h3 align="center"> Software Engineer | Tech Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-kansal-829343297"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,8 +13,8 @@
 ###  About Me
 
 -  Final Year B.Tech (CSE) student at **Graphic Era Hill University, Dehradun**
--  Passionate about **building scalable web apps** and exploring modern tech stacks
--  Currently working on **CodeSync** – a real-time collaborative code editor
+-  Passionate about **Building scalable web apps** and exploring modern tech stacks
+-  Dedicated to writing clean, efficient, and maintainable code
 -  Constantly learning and exploring **new technologies**
 -  Focused on solving real-world problems with clean and efficient code
 
