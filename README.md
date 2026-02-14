@@ -68,6 +68,6 @@
 ###  Connect with me :
 
 - Email: [yashkansal.cse@gmail.com](mailto:yashkansal.cse@gmail.com)  
-- LinkedIn: [linkedin.com/in/yash-kansal-dev](https://linkedin.com/in/yash-kansal-dev)  
+- LinkedIn: [linkedin.com/in/yashkansal-dev](https://linkedin.com/in/yashkansal-dev)  
 - Portfolio: [Yash Kansal](https://yashkansal.dev/)
 
