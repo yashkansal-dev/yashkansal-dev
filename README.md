@@ -4,7 +4,7 @@
 <h3 align="center"> Software Engineer | Tech Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-kansal-829343297"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yash-kansal-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yashkansal.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -59,8 +59,8 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kansal-ji&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kansal-ji&theme=github-dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkansal-dev&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkansal-dev&theme=github-dark&hide_border=false" height="150"/>
 </p>
 
 ---
@@ -68,6 +68,6 @@
 ###  Connect with me :
 
 - Email: [yashkansal.cse@gmail.com](mailto:yashkansal.cse@gmail.com)  
-- LinkedIn: [linkedin.com/in/yash-kansal-829343297](https://linkedin.com/in/yash-kansal-829343297)  
-- Portfolio: [Yash Kansal](https://yash-kansal.netlify.app/)
+- LinkedIn: [linkedin.com/in/yash-kansal-dev](https://linkedin.com/in/yash-kansal-dev)  
+- Portfolio: [Yash Kansal](https://yashkansal.dev/)
 
