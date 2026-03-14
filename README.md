@@ -1,6 +1,9 @@
 <!-- GitHub Profile README for https://github.com/yashkansal-dev -->
 
-<h1 align="center">Hi, I'm Yash Kansal</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yash%20Kansal&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Yash+Kansal;Full+Stack+Developer;Software+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 <h3 align="center"> Software Engineer | Tech Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
@@ -20,6 +23,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashkansal-dev/yashkansal-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkansal-dev&theme=github_dark"/>
 </p>
 
 ---
@@ -116,6 +127,7 @@
 </p>
 
 ---
+
 
 ###  Connect with me :
 
