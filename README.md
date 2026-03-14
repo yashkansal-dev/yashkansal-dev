@@ -87,6 +87,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yashkansal-dev&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkansal-dev&theme=github-dark&hide_border=false" height="150"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkansal-dev&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+###  LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yashkansal-dev?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+###  Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkansal-dev&theme=github-dark" />
+</p>
 
 ---
 
