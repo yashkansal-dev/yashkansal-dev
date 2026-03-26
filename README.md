@@ -107,7 +107,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkansal-dev&theme=github-dark&hide_border=false" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkansal-dev&layout=compact&theme=github_dark" />
+  <img src="https://lifetime-languages.vercel.app/api/languages?timestamp=123" />
 </p>
 
 ---
