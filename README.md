@@ -62,8 +62,8 @@
 <tr>
   <td><b>Frontend</b></td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" /><br/>
-    React.js, Next.js, HTML, CSS, TailwindCSS
+    <img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind" /><br/>
+    React.js, Next.js, Vite.js, HTML, CSS, TailwindCSS
   </td>
 </tr>
 
