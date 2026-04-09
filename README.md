@@ -50,30 +50,70 @@
 <div align="center">
 
 <table>
+
 <tr>
-<td><b>Languages</b></td>
-<td>C, C++, Python, Java, JavaScript, TypeScript, SQL</td>
+  <td><b>Languages</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,postgresql" /><br/>
+    C, C++, Python, Java, JavaScript, TypeScript, SQL (PostgreSQL)
+  </td>
 </tr>
+
 <tr>
-<td><b>Frontend</b></td>
-<td>React.js, Next.js, HTML, CSS, TailwindCSS</td>
+  <td><b>Frontend</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" /><br/>
+    React.js, Next.js, HTML, CSS, TailwindCSS
+  </td>
 </tr>
+
 <tr>
-<td><b>Backend</b></td>
-<td>Node.js, Express.js, Django, Prisma, REST APIs, WebRTC, Socket.IO</td>
+  <td><b>Backend</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,graphql" /><br/>
+    Node.js, Express.js, Django, Prisma, GraphQL
+  </td>
 </tr>
+
 <tr>
-<td><b>Database</b></td>
-<td>MongoDB, MySQL, SQLite, Firebase</td>
+  <td><b>Real-Time & APIs</b></td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" height="28"/><br/>
+    RESTful APIs, WebRTC, Socket.IO
+  </td>
 </tr>
+
 <tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, Postman, Docker, VS Code, CI/CD, Linux</td>
+  <td><b>Databases</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+    <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=postgresql&logoColor=black" height="28"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="28"/>
+    <img src="https://skillicons.dev/icons?i=firebase" /><br/>
+    MongoDB, MySQL, SQLite, Neon, Oracle, Firebase
+  </td>
 </tr>
+
 <tr>
-<td><b>Deployment</b></td>
-<td>Vercel, Netlify, Render, Google Cloud</td>
+  <td><b>Cloud, DevOps & Hosting</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,docker" />
+    <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/CI/CD-222222?style=flat&logo=githubactions&logoColor=white" height="28"/><br/>
+    AWS, Google Cloud, Vercel, Netlify, Docker, Render, CI/CD
+  </td>
 </tr>
+
+<tr>
+  <td><b>Development & Tools</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" /><br/>
+    Git, GitHub, Postman, VS Code, Linux
+  </td>
+</tr>
+
 </table>
 
 </div>
