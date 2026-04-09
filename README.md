@@ -70,8 +70,16 @@
 <tr>
   <td><b>Backend</b></td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,graphql" /><br/>
-    Node.js, Express.js, Django, Prisma, GraphQL
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,graphql,ktor,dotnet" /><br/>
+    Node.js, Express.js, Django, Prisma, GraphQL, Ktor, .NET (C#)
+  </td>
+</tr>
+
+<tr>
+  <td><b>Mobile Development</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,reactnative" /><br/>
+    Android (Kotlin), Android Studio, React Native
   </td>
 </tr>
 
@@ -117,7 +125,6 @@
 </table>
 
 </div>
-
 ---
 
 ###  Internships & Experience
