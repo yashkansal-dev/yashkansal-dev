@@ -78,8 +78,9 @@
 <tr>
   <td><b>Mobile Development</b></td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,reactnative" /><br/>
-    Android (Kotlin), Android Studio, React Native
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react native"/><br/>
+    Kotlin, Android Studio, React Native
   </td>
 </tr>
 
