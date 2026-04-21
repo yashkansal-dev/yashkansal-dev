@@ -70,8 +70,8 @@
 <tr>
   <td><b>Backend</b></td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,graphql,ktor,dotnet" /><br/>
-    Node.js, Express.js, Django, Prisma, GraphQL, Ktor, .NET (C#)
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,prisma,graphql,ktor,dotnet" /><br/>
+    Node.js, Express.js, NestJS, Django, Prisma, GraphQL, Ktor, .NET (C#)
   </td>
 </tr>
 
