@@ -156,7 +156,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkansal-dev&theme=github-dark&hide_border=false" height="150"/>
 </p>
 <p align="center">
-  <img src="https://lifetime-languages.vercel.app/api/languages?timestamp=123" />
+  <img src="https://lifetime-languages.vercel.app/api/languages" />
 </p>
 
 ---
